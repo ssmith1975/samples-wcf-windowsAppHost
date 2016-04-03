@@ -102,8 +102,8 @@ publish/
 #packages/
 
 # Ignore extras
-packages/
-ProductsServiceLibrary2008/
+/packages/
+!packages/repositories.config
 
 
 
